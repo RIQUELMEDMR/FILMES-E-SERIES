@@ -50,3 +50,6 @@ https://stonemason.s3.us-central-1.wasabisys.com/244669/-f-i-l-m-e-s-/980489.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Need For Speed - O Filme" tvg-logo="https://bit.ly/45zo3KX" group-title="FILMES",Need For Speed - O Filme
 https://stonemason.s3.us-central-1.wasabisys.com/244669/-f-i-l-m-e-s-/136797.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DMHFEJOS4R51BBPDGU8D%2F20231018%2Fus-central-1%2Fs3%2Faws4_request&X-Amz-Date=20231018T061327Z&X-Amz-SignedHeaders=host&X-Amz-Expires=18000&X-Amz-Signature=f01f48c8aeb7d6556097c8aa96c549590ef2d127b454ce03b1a54bb006cf96fe
+
+#EXTINF:-1 tvg-id="" tvg-name="O Diabo No Tribunal" tvg-logo="https://bit.ly/3M7N2y1" group-title="FILMES",O Diabo No Tribunal
+https://cdn.jmvstream.com/vod/vod_12867/f/p0wo17uyffkz374/h/4/816/chunck_list_JMV.m3u8
