@@ -108,7 +108,7 @@ https://abre.ai/hc2H
 #EXTINF:-1 tvg-id="" tvg-name="Férias Mortais" tvg-logo="https://encurtador.com.br/IMZ38" group-title="FILMES",Férias Mortais
 https://abre.ai/hds3
 
-EXTINF:-1 tvg-id="" tvg-name="Resident Evil" tvg-logo="https://encurtador.com.br/ntGR1" group-title="FILMES",Resident Evil
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil" tvg-logo="https://encurtador.com.br/ntGR1" group-title="FILMES",Resident Evil
 https://abre.ai/hdO8
 
 #EXTINF:-1 tvg-id="" tvg-name="Resident Evil 2" tvg-logo="https://encurtador.com.br/avJM6" group-title="FILMES",Resident Evil 2
